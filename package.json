@@ -1,0 +1,16 @@
+{
+  "name": "@luncheon/varint",
+  "version": "1.0.0",
+  "description": "A BigInt-native varint codec supporting arbitrary chunk sizes and zigzag encoding.",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luncheon/varint.git"
+  },
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
